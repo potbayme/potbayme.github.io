@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://potbayme.github.io/sitemap.html.gz
+Sitemap: https://potbayme.github.io/app/sitemap.html.gz
+Sitemap: https://potbayme.github.io/assets/sitemap.html.gz
+Sitemap: https://potbayme.github.io/css/sitemap.html.gz
+Sitemap: https://potbayme.github.io/includes/sitemap.html.gz
+Sitemap: https://potbayme.github.io/item/sitemap.html.gz
+Sitemap: https://potbayme.github.io/src/sitemap.html.gz
